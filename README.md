@@ -1,3 +1,3 @@
 # resume
 
-A simple resume that I will continue to update!
+a simple resume that I will continue to update!
